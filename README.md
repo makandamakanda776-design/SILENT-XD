@@ -196,7 +196,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 > Built with ❤️ by **Malvin King**
 
-- 👤 [Malvin King](https://github.com/XdKing2) — Creator & Maintainer  
+- 👤 [SILENT NODIE](https://github.com/XdKing2) — Creator & Maintainer  
   - Core features, plugin manager, deployment tools, performance optimization
 
 </div>
