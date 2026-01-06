@@ -1,7 +1,7 @@
 {
-  "name": "malvin-xd",
+  "name": "silent-xd",
   "version": "2.1.1",
-  "description": "WhatsApp Bot by Malvin King",
+  "description": "WhatsApp Bot by Silent nodie",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -18,7 +18,7 @@
   "keywords": [
     "whatsapp-bot", "star-xd","starxd"
   ],
-  "author": "Malvin King",
+  "author": "Silent nodie",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
