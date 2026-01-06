@@ -2,7 +2,7 @@
 // ⚠️  OFFICIAL NOTICE - PROPRIETARY CODE
 // =================================================================
 // 
-// This software is the intellectual property of Malvin King.
+// This software is the intellectual property of Silent Nodie.
 // Unauthorized cloning, modification, or distribution is strictly
 // prohibited without explicit written consent from the author.
 //
@@ -19,7 +19,7 @@
 // 📞 For licensing inquiries: Contact developer directly
 // 💼 Official repository: https://github.com/XdKing2/MALVIN-XD
 // Owner contact 
-// 📞 +263776388689
+// 📞 +263784549656
 //
 // Respect the developer's work and rights. Support original projects.
 // =================================================================
